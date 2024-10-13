@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/ccisnero15/cc-product-card",
+    "type": "git"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -60,5 +64,10 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.7.0",
     "typescript": "^3.9.10"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "ccisnero"
+  ]
 }
